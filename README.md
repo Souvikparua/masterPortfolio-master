@@ -122,6 +122,8 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 
 Technologies used 🛠️
+
+
 React
 graphql
 apollo-boost
