@@ -583,12 +583,12 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Data engineer Intern",
+          company: "Celebal Technology",
+          company_url: "https://celebaltech.com/",
+          logo_path: "celebal.png",
+          duration: "May 2024 - jul 2024",
+          location: "Jaipur, India",
           description:
             "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
           color: "#000000",
